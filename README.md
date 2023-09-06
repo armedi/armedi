@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working on a very cool no-code website builder [@typedream](https://github.com/typedreamhq)
+I’m currently working on building a social commerce platform in Indonesia at [Super](https://superapp.id/)
 
 Also I really enjoy contributing to open source. I have contributed to these projects:
 - [type-fest](https://github.com/sindresorhus/type-fest)
@@ -8,6 +8,7 @@ Also I really enjoy contributing to open source. I have contributed to these pro
 - [react-resizable](https://github.com/react-grid-layout/react-resizable)
 - [plate](https://github.com/udecode/plate)
 - [blurhash](https://github.com/woltapp/blurhash) via [rescript-blurhash](https://github.com/armedi/rescript-blurhash)
+- [typesafe-routes](https://github.com/kruschid/typesafe-routes)
 
 
 You can reach me on twitter [@armedi](https://twitter.com/armedi)

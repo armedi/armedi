@@ -9,6 +9,7 @@ Also I really enjoy contributing to open source. I have contributed to these pro
 - [plate](https://github.com/udecode/plate)
 - [blurhash](https://github.com/woltapp/blurhash) via [rescript-blurhash](https://github.com/armedi/rescript-blurhash)
 - [typesafe-routes](https://github.com/kruschid/typesafe-routes)
+- [webstudio](https://github.com/webstudio-is/webstudio)
 
 
 You can reach me on twitter [@armedi](https://twitter.com/armedi)
